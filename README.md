@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+enlace en produccion: https://fbclaseprueba.web.app/
